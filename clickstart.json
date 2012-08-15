@@ -1,11 +1,9 @@
 {
-    "id": "liferay-cb-6.0.6-1",
-    "name": "Liferay 6.0.6",
+    "id": "liferay-cb-6.0.6-harpreet",
+    "name": "Liferay 6.0.6 Garpreet",
     "app-package": "https://s3.amazonaws.com/cloudbees-downloads/app-templates/liferay-cb-6.0.6.war",
     "description" : "The liferay portal",
     "app-package-type": "war",
-    "disabled" : false,
-    "disabled-reason" : "Not ready yet - the flag disabled means it won't show in a list",
     "runtime": {
         "type": "tomcat",
         "jvmPermSize": "256"
