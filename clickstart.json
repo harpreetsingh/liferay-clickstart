@@ -1,5 +1,5 @@
 {
-    "id": "liferay-cb-6.0.6",
+    "id": "liferay-cb-6.0.6-1",
     "name": "Liferay 6.0.6",
     "app-package": "https://s3.amazonaws.com/cloudbees-downloads/app-templates/liferay-cb-6.0.6.war",
     "description" : "The liferay portal",
