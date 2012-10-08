@@ -6,7 +6,7 @@
     "app-package-type": "war",
     "runtime": {
         "type": "tomcat",
-        "jvmPermSize": "512"
+        "jvmPermSize": "256"
     },
     "databases": [
         {
